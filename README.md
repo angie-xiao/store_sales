@@ -1,9 +1,9 @@
-# Store Sales
+# Store Sales Prediction
 
 **Table of Content**
-- [Store Sales](#store-sales)
+- [Store Sales Prediction](#store-sales-prediction)
   - [Project Description](#project-description)
-  - [Workflow Illustration](#workflow-illustration)
+  - [📌 Workflow Illustration](#-workflow-illustration)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -25,8 +25,8 @@ The output data format is demonstrated in the table below:
 | '2017-01-01' | 44 | GROCERY_I | 5,029|
 | '2017-01-02' | 44 | GROCERY_I | 4,380|
 
-## Workflow Illustration
-📌 Check out these report pages for more in-detail explanations in addition to the Jupyter notebooks provided in this repo.
+## 📌 Workflow Illustration
+Check out these report pages for more in-detail explanations in addition to the Jupyter notebooks provided in this repo.
 1. [Data Engineering](https://www.notion.so/angie-xiao/1-Data-Engineering-7750f402b0f14db3bb00dbf5c85f5147)
 2. [EDA](https://www.notion.so/angie-xiao/2-EDA-f2b02937db4c47da9b02e4ab896c6692)
 3. [Understanding the Time Series](https://www.notion.so/angie-xiao/3-Understanding-the-Time-Series-Data-dc7a47281d694f2ebcad183ccadae2dd)
