@@ -1,10 +1,13 @@
+# Store Sales
+
 **Table of Content**
-- [Project Description](#project-description)
-- [Workflow Illustration](#workflow-illustration)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Store Sales](#store-sales)
+  - [Project Description](#project-description)
+  - [Workflow Illustration](#workflow-illustration)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
   
 
 ## Project Description 
@@ -13,7 +16,7 @@
 
 This project is a simplified version of the original [Kaggle contest](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data). Instead of predicting daily sales for each store-product combination, the focus here is to explore the best method in predicting sales of the best selling *per-store-per-product* combination (i.e. `Grocery I` at `store_nbr 44`) to illustrate the steps involved in time series analyses.
 
-Turned out that our manual reading using ACF & PACF plots (after data engineering steps) yielded better results than `auto_arima()`.
+Turned out that the (S)ARIMA(X) model(s) built using our manual reading using ACF & PACF plots (after data engineering steps) yielded better results than `auto_arima()`.
 
 The output data format is demonstrated in the table below:
 
